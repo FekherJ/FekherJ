@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FekherJ
-- 👀 I’m interested in Blockchain
+- 👀
 - 🌱 I’m currently learning Solidity
 
 <!---
