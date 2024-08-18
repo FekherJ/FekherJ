@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FekherJ
 - 👀
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently working on a few DeFi projects
 
 <!---
 FekherJ/FekherJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
