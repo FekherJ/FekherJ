@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Fekher Jarrar (@FekherJ)
 
-## 🚀 Blockchain Developer | DeFi Enthusiast | IT project manager
+## 🚀 Blockchain Developer | DeFi Enthusiast | Fintech consultant | IT Project manager
 
 
 ### About Me
