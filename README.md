@@ -1,38 +1,149 @@
+# 👋 Hi, I'm Fekher Jarrar
 
-# 👋 Hi, I’m Fekher Jarrar (@FekherJ)
+## Technical Business Analyst | APIs | Data Flows | Backend & Data Pipeline Projects
 
-## 🚀 Blockchain Developer | DeFi Enthusiast | Fintech consultant | IT Project manager
+I'm an IT engineer and Technical Business Analyst with experience in financial systems, application platforms, data flows and production-critical environments.
 
+I am currently strengthening my technical profile through hands-on backend and data engineering projects focused on APIs, SQL, data ingestion, transformation, monitoring and cloud-ready architecture.
 
-### About Me
+My goal is to move toward more technical roles around integration, data platforms, backend systems and eventually cloud/platform engineering.
 
-- 💻 I’m an IT engineer transitioning into **blockchain development** and **Decentralized Finance (DeFi)**.
-- 🌍 I’m passionate about bridging the gap between **traditional finance** and **decentralized ecosystems**, working on projects that are reshaping the future of finance.
-- 🛠 I have been honing my skills in **Solidity**, **smart contracts**, and **Ethereum development**, while building real-world solutions on the **blockchain**.
+---
 
+## 🔎 About Me
 
-### 🧑‍💻 What I’m Working On
+- IT engineer with experience in banking, financial systems and application platforms
+- Background in business analysis, production-critical systems and technical coordination
+- Interested in backend systems, APIs, SQL, data pipelines and distributed architectures
+- Building practical projects to strengthen my engineering skills
+- Previously explored blockchain and DeFi through smart contract and dApp projects
 
-- 🏗 **Chainflight**: A decentralized insurance platform focused on **flight delay** compensation using **Chainlink oracles** and smart contracts on the **Ethereum blockchain**.
-- 💡 Developing innovative **DeFi projects** aimed at improving the user experience in decentralized applications.
-- 🔗 Exploring **smart contract security** and **dApp scalability** to create robust decentralized solutions.
+---
 
-  
-### 🔧 Technologies & Tools
+## 🚀 Current Focus
 
-- **Blockchain**: Solidity, Hardhat, Ethereum, Chainlink
-- **Web Development**: Node.js, Express.js, JavaScript
-- **APIs & Oracles**: Chainlink Any API, REST APIs
-- **Testing & Deployment**: Remix, Truffle, Ethers.js, npm
-- **Version Control**: Git, GitHub
+I am currently focusing on:
 
+- Backend development with Node.js and Express
+- REST API design
+- SQL and PostgreSQL
+- Data ingestion and transformation pipelines
+- Redis caching
+- Docker and local infrastructure
+- Testing with Jest
+- GitHub Actions CI
+- Cloud architecture fundamentals, especially AWS
 
-### 🎯 Goal
+---
 
-- 🏆 Build secure and scalable decentralized applications that solve real-world problems.
+## 🧩 Featured Project
 
+### 📈 MarketPulse — Data Pipeline Monitoring API
 
-### 📫 Let’s Connect!
+MarketPulse is a backend/data engineering learning project that simulates a production-grade data pipeline.
 
-- 💼 LinkedIn: www.linkedin.com/in/fekher-jarrar
-- 📧 Email: fekher.jarrar2@gmail.com
+It ingests external market data, stores raw payloads, transforms them into structured PostgreSQL records, exposes them through a REST API, caches latest values in Redis, and tracks the ingestion lifecycle through logs and database records.
+
+**Key concepts demonstrated:**
+
+- External API ingestion
+- Raw data storage
+- ETL-style transformation
+- PostgreSQL data modeling
+- Data quality checks
+- Ingestion run monitoring
+- Redis caching
+- REST API design
+- Structured logging
+- SQL diagnostics
+- Unit testing with Jest
+- GitHub Actions CI
+- Docker Compose local infrastructure
+- AWS architecture mapping
+
+Repository: [MarketPulse](https://github.com/FekherJ/MarketPulse)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Backend & APIs
+
+- Node.js
+- Express.js
+- REST APIs
+- Axios
+
+### Data & Databases
+
+- SQL
+- PostgreSQL
+- Redis
+- Data modeling
+- Data quality checks
+- SQL monitoring queries
+
+### DevOps & Tooling
+
+- Git
+- GitHub
+- Docker Compose
+- GitHub Actions CI
+- npm
+- Prettier
+- Jest
+
+### Cloud & Architecture
+
+- AWS fundamentals
+- EventBridge concepts
+- Lambda concepts
+- S3 concepts
+- RDS concepts
+- ElastiCache concepts
+- CloudWatch concepts
+
+### Previous Blockchain Experience
+
+- Solidity
+- Ethereum
+- Hardhat
+- Chainlink
+- Smart contracts
+- DeFi concepts
+
+---
+
+## 📚 What I'm Learning
+
+I am currently improving my skills in:
+
+- Backend architecture
+- Data engineering fundamentals
+- API integration
+- SQL performance and indexing
+- Cloud-ready system design
+- CI/CD basics
+- Testing and reliability
+- Observability and monitoring
+
+---
+
+## 🎯 Career Direction
+
+I am transitioning from a traditional IT Business Analyst profile toward a more technical path focused on:
+
+- Technical Business Analyst roles
+- API / Integration Analyst roles
+- Data Flow / Data Platform Analyst roles
+- Backend and data engineering-adjacent projects
+- Cloud/platform engineering fundamentals
+
+The objective is to build a stronger technical identity around systems, APIs, data flows, automation and cloud-ready architectures.
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/fekher-jarrar](https://www.linkedin.com/in/fekher-jarrar)
+- Email: [fekher.jarrar2@gmail.com](mailto:fekher.jarrar2@gmail.com)
